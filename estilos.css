@@ -1,0 +1,18 @@
+html{
+    font-size: 14px;
+}
+
+body {
+    font-size: 1rem;
+}
+
+@media screen and (max-width:700px) {
+    html{
+        font-size: 10px;
+    }
+}
+
+.container1{
+    display: flex;
+    align-items: center;                             
+}
